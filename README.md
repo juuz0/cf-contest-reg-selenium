@@ -8,6 +8,6 @@ using selenium to register for codeforces contests.
 
 ## Steps -
 * open script.py
-* enter email & password \n
+* enter email & password <br />
 ![Example-image](enter_info.PNG)
 * Done! The program will register for the most recent available contest.
